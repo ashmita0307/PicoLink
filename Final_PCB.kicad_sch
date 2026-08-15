@@ -9152,7 +9152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RAHPCUA20:SWITCHCRAFT_RAHPCUA20"
+		(property "Footprint" "Connector_USB:USB_A_TE_292303-7_Horizontal"
 			(at 91.44 170.18 0)
 			(hide yes)
 			(show_name no)
