@@ -510,7 +510,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Final_PCB.kicad_pro",
+    "filename": "PicoLink.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -546,7 +546,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -755,8 +755,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Final_PCB.kicad_sch",
-        "name": "Root",
+        "filename": "PicoLink.kicad_sch",
+        "name": "PicoLink",
         "uuid": "c35ae1f1-0854-4397-afb1-696b2a3bc31b"
       }
     ],
