@@ -142,5 +142,4 @@ An RP2040-based project for VGA graphics generation and USB composite device imp
 
 ## Acknowledgements 
 - [SRA VJTI](https://sravjti.in/) Eklavya 2026
--[https://github.com/razorArnov/PICO-VGA-BOARD]
 - Special thanks to our mentors [Omkar Nanajkar](https://github.com/nomkar24), [Moksh Panicker](https://github.com/moxybaba), and all the seniors at SRA, VJTI for their constant support and guidance throughout the project.
